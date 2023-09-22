@@ -1,7 +1,9 @@
 # Batch Apply Model textures
 **advanced brute force edition**
 
+
 for Blender
+
 
 * Takes fbx, glb, etc. and outputs gltf
 * Works with normal maps, metallic, etc.
