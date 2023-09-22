@@ -1,6 +1,6 @@
 
 # Batch Apply Model textures - BAM!
-**advanced brute force edition**
+<center>**advanced brute force edition**</center>
 
 
 for Blender
