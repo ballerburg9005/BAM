@@ -1,9 +1,6 @@
 
 # Batch Apply Model textures and convert to glTF
-**advanced brute force edition**
-
-
-For Blender.
+**advanced brute force edition** for Blender
 
 
 Very useful for digesting model packs.
