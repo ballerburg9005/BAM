@@ -1,9 +1,12 @@
 
-# Batch Apply Model textures - BAM!
+# Batch Apply Model textures and convert to glTF
 **advanced brute force edition**
 
 
-for Blender
+for Blender 
+
+
+Very useful for digesting model packs.
 
 * Takes fbx, glb, etc. and outputs gltf
 * Works with normal maps, metallic, etc.
