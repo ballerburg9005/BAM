@@ -9,6 +9,8 @@ for Blender
 * Works with normal maps, metallic, etc.
 * gradually descends from sane to insane when associating model to image files
 
-* Copyright:    2023 @Ballerburg9005 
-* License:      GPL-3 or later
-* https://github.com/ballerburg9005/BAM
+```
+Copyright:    2023 @Ballerburg9005 
+License:      GPL-3 or later
+https://github.com/ballerburg9005/BAM
+```
