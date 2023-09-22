@@ -19,6 +19,9 @@ for Blender
 
 (Debug output in system console, not Blender console)
 
+
+[![bam1](bam1.jpg)](#) [![bam2](bam2.jpg)](#)
+
 ```
 Copyright:    2023 @Ballerburg9005 
 License:      GPL-3 or later
