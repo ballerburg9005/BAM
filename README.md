@@ -3,7 +3,7 @@
 **advanced brute force edition**
 
 
-for Blender 
+For Blender.
 
 
 Very useful for digesting model packs.
