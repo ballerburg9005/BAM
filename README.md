@@ -5,7 +5,7 @@
 
 Very useful for digesting model packs.
 
-* Takes fbx, glb, etc. and outputs gltf
+* Takes folders full of fbx, glb, etc. files and outputs folders with gltf files
 * Works with normal maps, metallic, etc.
 * gradually descends from sane to insane when associating model to image files
 
